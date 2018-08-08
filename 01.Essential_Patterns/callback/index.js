@@ -11,6 +11,8 @@ var Logger = require("./class_module");
 //Module with a function that has a callback
 var module_with_callback = require("./module_with_callback");
 
+//Module with es6 export
+
 my_module.sayMessage("How you doing");
 
 function_module.sayHi();
