@@ -1,4 +1,4 @@
-# Factory Pattern
+# Factory Pattern (Creational Pattern)
 
 ## Understanding Factory functions
 
